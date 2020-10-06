@@ -1,7 +1,7 @@
  # Alex Personal Website
- Author : Alex Yang
+ **Author** : Alex Yang
  
- This webpage is to show my career background and demonstrate the knowledge I have learned in the web development class.
+ **Objective** : This webpage is to show my career background and demonstrate the knowledge I have learned in the web development class.
  
  **Technologies**
  * HTML
