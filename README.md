@@ -1,7 +1,7 @@
  # Alex Personal Website
  **Author** : Alex Yang
  
- azydeve.github.io/index.html/
+ <azydeve.github.io/index.html/>
  
  **Objective** : This webpage is to show my career background and demonstrate the knowledge I have learned in the Web Development class.
  
