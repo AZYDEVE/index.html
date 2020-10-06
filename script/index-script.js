@@ -10,3 +10,5 @@ function typing(){
 }
     
 typing();
+
+//Code review: Very cool way to do the typing effect!! I saw a way to do a similar effect using just CSS, but the Javascript version seems intuitive and makes more sense!
