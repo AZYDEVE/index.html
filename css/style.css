@@ -12,6 +12,8 @@ body {
   padding: 0;
   box-sizing: border-box;
   overflow-x: hidden;
+  //Code review: Maybe you want the overflow to be scroll/auto instead of hidden? 
+  //If I view on mobile or change the webpage size I can only see a part of the website.
   font-family: 'Poppins', sans-serif;
   /*font-family: 'Caveat', cursive;*/
   background color: #e6f2ff;
@@ -24,6 +26,7 @@ body {
   font-weight: 500;
   letter-spacing: 0.2rem;
   background: rgba(0, 0, 0, 0.6) !important;
+  //Code review: According to the rubric, you're not supposed to use !important in the css.
   padding: 20px;
 
 }
@@ -142,6 +145,7 @@ body {
 
 }
 
+//Code review: typo in gallery
 .gallary {
   display: flex;
   position: relative;
@@ -149,6 +153,7 @@ body {
 
 }
 
+//Code review: typo in restaurantphoto
 .restuarantphoto {
   width: 250px;
   padding-right: 10px;
@@ -165,3 +170,5 @@ body {
   width: 250px;
   padding-right: 10px;
 }
+
+//Code review: a small padding/margin at the bottom of the skills page might look nicer - right now it feels cut off at the bottom.
